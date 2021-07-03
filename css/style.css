@@ -1,0 +1,111 @@
+body{
+    font-family:  Roboto ,sans-serif;
+    background:linear-gradient(beige,#B3DEE2,#B83D89);
+    margin: 20px;
+}
+h2{
+    color: #963a58; font-family: "Great Vibes", cursive; font-size: 100px; line-height: 160px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff; 
+ 
+}
+header{
+    border:blueviolet solid;
+    border-radius: 20%;
+    background-color: cornsilk;
+}
+
+li{
+    word-spacing: 20px;
+    padding-left: 150px;
+    display: inline;
+    font-style:oblique;
+
+}
+#Home p{text-align: center;font-size:initial;}
+#About pre{text-align: center;font-size:initial;}
+#About table{ padding: 15px;  width: 80%;text-align: center;}
+#About th,td{border-bottom: 3px solid rgb(34, 78, 107);}
+
+ul a { text-decoration: none }
+    a:link {color: blue }
+    a:visited {color: rgb(128, 0, 0) }
+    a:hover {color: rgb(71, 151, 255);} 
+    a:active{color: #021b0c}
+ 
+
+pre { font-family:Roboto, sans-serif;font-weight: bold; }
+
+h3{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgba(0, 255, 200, 0.479),rgb(109, 128, 0));
+    text-align: center;
+}
+#Work iframe{padding-left: 20rem;}
+
+#Resume img{height: 200px;width: 400px;padding-left: 20rem;}
+
+input[type=text]{
+    width: 60%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+
+input[type=email]{
+    width: 60%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+input[type=number]{
+    width: 60%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+  input[type=date]{
+    width: 60%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+  input[type=submit] {
+    width: 60%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 7px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #workwork{border-radius: 2px;
+    background-color: #f2f2f2e3;
+    padding:20px;
+    }
+  
+  input[type=submit]:hover {
+    background-color: #aebccf;
+  }
+
+footer > a{
+    font-size: 18px;
+    padding-left: 65em;
+    
+
+}
